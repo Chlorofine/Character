@@ -149,7 +149,7 @@ body {
 }
 
 .hand-1 {
-    left: 1170px;
+    left: 1100px;
     top: 230px;
     background-color: #ff7d92;
     width: 140px;
@@ -160,8 +160,8 @@ body {
 }
 
 .hand-2 {
-    left: 730px;
-    top: 500px;
+    left: 680px;
+    top: 480px;
     background-color: #ff7d92;
     width: 140px;
     height: 180px;
@@ -178,7 +178,7 @@ body {
 }
 
 .foot-1 {
-    left: 800px;
+    left: 770px;
     top: 550px;
     background-color: #9c102e;
     width: 180px;
@@ -189,8 +189,8 @@ body {
 }
 
 .foot-2 {
-    left: 1050px;
-    top: 600px;
+    left: 1010px;
+    top: 530px;
     background-color: #9c102e;
     width: 180px;
     height: 230px;
